@@ -2,5 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
   if num%3=0&&num=1 
-    return 
+    return "Fizz"
+  end
 end
